@@ -22,5 +22,11 @@
     "key": "Me",
     "expirydate": "23-02-2050",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ffdb46dd6c8da158",
+    "key": "Sifat 2",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
