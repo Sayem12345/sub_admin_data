@@ -58,5 +58,11 @@
     "key": "Murad",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "048caeff486676cf",
+    "key": "sagor",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
