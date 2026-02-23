@@ -46,5 +46,11 @@
     "key": "Harun",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8d616c2fa3f032a5",
+    "key": "Danial",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
