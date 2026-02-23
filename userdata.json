@@ -64,5 +64,11 @@
     "key": "sagor",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8e4bae37c02eb2da",
+    "key": "আল-আমিন",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
