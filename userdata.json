@@ -28,5 +28,11 @@
     "key": "Sifat 2",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3d0b64537a64d2a8",
+    "key": "রিফাত 2",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
