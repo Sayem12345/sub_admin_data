@@ -34,5 +34,11 @@
     "key": "রিফাত 2",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a4227d1130445386",
+    "key": "জিহাদ 2",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
