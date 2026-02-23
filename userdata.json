@@ -70,5 +70,11 @@
     "key": "আল-আমিন",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1efa7d506c94b108",
+    "key": "TRY-1",
+    "expirydate": "24-02-2026",
+    "Allowoffline": true
   }
 ]
