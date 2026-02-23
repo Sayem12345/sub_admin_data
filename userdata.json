@@ -40,5 +40,11 @@
     "key": "জিহাদ 2",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b3278467377c4e65",
+    "key": "Harun",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
