@@ -76,5 +76,11 @@
     "key": "TRY-1",
     "expirydate": "24-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3cf69a868bc8dcf5",
+    "key": "Ali-Baba",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
