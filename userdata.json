@@ -154,5 +154,11 @@
     "key": "Ali",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "682c436dea6e4c8f",
+    "key": "Sifat 3",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
   }
 ]
