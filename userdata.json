@@ -208,5 +208,11 @@
     "key": "Krisno",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c036187d004b3218",
+    "key": "00",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
   }
 ]
