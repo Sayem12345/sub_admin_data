@@ -112,5 +112,11 @@
     "key": "Harun2",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5dc29d7d71854c93",
+    "key": "Mahin",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
   }
 ]
