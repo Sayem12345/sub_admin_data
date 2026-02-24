@@ -226,5 +226,11 @@
     "key": "জুয়েল",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f2a1809e49d6a479",
+    "key": "000",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
   }
 ]
