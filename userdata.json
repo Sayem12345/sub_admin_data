@@ -172,5 +172,11 @@
     "key": "Turzo",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5024f95274218c03",
+    "key": "Sabit",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
   }
 ]
