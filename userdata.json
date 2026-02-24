@@ -106,5 +106,11 @@
     "key": "মাহফুজ 3",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a274e9b78bfa4803",
+    "key": "বাশার 2",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
