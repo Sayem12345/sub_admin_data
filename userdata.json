@@ -214,5 +214,11 @@
     "key": "11",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "407b013b200fbcb1",
+    "key": "Siam",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
   }
 ]
