@@ -148,5 +148,11 @@
     "key": "Kamrul",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5593d43b4acde04f",
+    "key": "Ali",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
   }
 ]
