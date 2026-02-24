@@ -94,5 +94,11 @@
     "key": "বাশার",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "410bf6bfb69d34c0",
+    "key": "Sourov",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
   }
 ]
