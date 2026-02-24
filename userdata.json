@@ -172,5 +172,11 @@
     "key": "Sabit",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "26b7618d55b181e1",
+    "key": "Mahfuz 7",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
   }
 ]
