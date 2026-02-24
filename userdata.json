@@ -256,5 +256,11 @@
     "key": "Chot",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "db41f5b7e6304385",
+    "key": "0001",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
