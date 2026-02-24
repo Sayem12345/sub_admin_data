@@ -186,9 +186,15 @@
     "Allowoffline": true
   },
   {
-    "device_id": "a885b7bcdcf7d811",
-    "key": "জুয়েল",
-    "expirydate": "27-02-2026",
+    "device_id": "c4a1c4a0d8080ca6",
+    "key": "জয়পুরের লোক",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "c4a1c4a0d8080ca6",
+    "key": "1",
+    "expirydate": "28-02-2026",
     "Allowoffline": true
   }
 ]
