@@ -228,26 +228,32 @@
     "Allowoffline": true
   },
   {
-    "device_id": "b6ef5479acbe614a",
-    "key": "Rifat 2",
+    "device_id": "637b30698eb84256",
+    "key": "Mahfuz 10",
     "expirydate": "27-02-2026",
     "Allowoffline": true
   },
   {
-    "device_id": "a20fc0e2cc1d4c67",
-    "key": "Mahfuz 11",
+    "device_id": "7bda15752aa626ac",
+    "key": "Mahfuz 13",
     "expirydate": "27-02-2026",
     "Allowoffline": true
   },
   {
-    "device_id": "1b8cf30820965b3e",
-    "key": "Mahfuz 12",
+    "device_id": "31fce780f4419dd7",
+    "key": "Mahfuz 15",
     "expirydate": "27-02-2026",
     "Allowoffline": true
   },
   {
     "device_id": "2c274b12f9b870f2",
-    "key": "Mahfuz 16",
+    "key": "Mahfuz 17",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "6d68b59dc4612b33",
+    "key": "Chot",
     "expirydate": "27-02-2026",
     "Allowoffline": true
   }
