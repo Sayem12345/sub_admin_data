@@ -166,5 +166,11 @@
     "key": "Nurul 1",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e190fdbb0889110e",
+    "key": "Turzo",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
   }
 ]
