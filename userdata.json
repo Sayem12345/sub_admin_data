@@ -184,5 +184,11 @@
     "key": "Nurul 1",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c4a1c4a0d8080ca6",
+    "key": "জয়পুরের লোক",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
 ]
