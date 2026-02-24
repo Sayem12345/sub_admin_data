@@ -210,6 +210,12 @@
     "Allowoffline": true
   },
   {
+    "device_id": "f696ecf5416bb7d9",
+    "key": "11",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
+  },
+  {
     "device_id": "407b013b200fbcb1",
     "key": "Siam",
     "expirydate": "27-02-2026",
@@ -218,12 +224,6 @@
   {
     "device_id": "a885b7bcdcf7d811",
     "key": "জুয়েল",
-    "expirydate": "27-02-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "f2a1809e49d6a479",
-    "key": "000",
     "expirydate": "27-02-2026",
     "Allowoffline": true
   },
