@@ -198,8 +198,14 @@
     "Allowoffline": true
   },
   {
-    "device_id": "b11cf9c98f5bcb50",
-    "key": "Ripon",
+    "device_id": "e2ef39f4425e1afe",
+    "key": "Krisno",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "c036187d004b3218",
+    "key": "00",
     "expirydate": "27-02-2026",
     "Allowoffline": true
   }
