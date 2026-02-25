@@ -358,5 +358,11 @@
     "key": "Ok1009",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "637b30698eb84256",
+    "key": "Ok1010",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
