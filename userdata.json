@@ -382,5 +382,11 @@
     "key": "Rifat10",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "0db018fcfe471b6d",
+    "key": "Rifat11",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
