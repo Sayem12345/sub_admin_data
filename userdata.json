@@ -216,12 +216,6 @@
     "Allowoffline": true
   },
   {
-    "device_id": "4319af66179f21f0",
-    "key": "100000",
-    "expirydate": "27-02-2026",
-    "Allowoffline": true
-  },
-  {
     "device_id": "f2a1809e49d6a479",
     "key": "Mahfuz",
     "expirydate": "27-02-2026",
@@ -386,12 +380,6 @@
   {
     "device_id": "40c5195cdde87fcc",
     "key": "Antor05",
-    "expirydate": "28-02-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "e42a78adce41c7cf",
-    "key": "Seefat",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   }
