@@ -292,5 +292,11 @@
     "key": "Antor1",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "53bdcab490c3f3d4",
+    "key": "Rashedul1",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
