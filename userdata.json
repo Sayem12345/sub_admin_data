@@ -430,5 +430,12 @@
     "key": "546f340c323c1b28",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f696ecf5416bb7d9",
+    "key": "f696ecf5416bb7d9",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true,
+    "createdAt": "2026-02-25T14:17:27.238Z"
   }
 ]
