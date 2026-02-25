@@ -400,5 +400,11 @@
     "key": "Hiccups",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4319af66179f21f0",
+    "key": "Ok-man",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
