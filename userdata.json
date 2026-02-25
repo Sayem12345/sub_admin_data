@@ -336,6 +336,12 @@
     "Allowoffline": true
   },
   {
+    "device_id": "6d68b59dc4612b33",
+    "key": "Ok1008",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
     "device_id": "f2a1809e49d6a479",
     "key": "Ok1009",
     "expirydate": "28-02-2026",
@@ -380,6 +386,12 @@
   {
     "device_id": "1b8cf30820965b3e",
     "key": "Keep",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "6d68b59dc4612b33",
+    "key": "Kiddo",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   }
