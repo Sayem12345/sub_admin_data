@@ -270,20 +270,26 @@
     "Allowoffline": true
   },
   {
-    "device_id": "6d68b59dc4612b33",
-    "key": "Mahfuz 100",
+    "device_id": "f696ecf5416bb7d9",
+    "key": "Mahfuz 101",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   },
   {
-    "device_id": "f2a1809e49d6a479",
-    "key": "Mahfuz 102",
+    "device_id": "7982550ca0232c2c",
+    "key": "Mahfuz 105",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   },
   {
-    "device_id": "f2a1809e49d6a479",
-    "key": "Mahfuz 103",
+    "device_id": "7982550ca0232c2c",
+    "key": "Mahfuz 106",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "40c5195cdde87fcc",
+    "key": "Antor1",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   }
