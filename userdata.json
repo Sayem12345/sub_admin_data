@@ -268,5 +268,11 @@
     "key": "Rifat 2",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6d68b59dc4612b33",
+    "key": "Mahfuz 100",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
