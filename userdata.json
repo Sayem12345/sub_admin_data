@@ -366,8 +366,14 @@
     "Allowoffline": true
   },
   {
-    "device_id": "c4a3afc7c6f49bb3",
-    "key": "Ok1050",
+    "device_id": "ae6a2fff2b671276",
+    "key": "Ok1019",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "f696ecf5416bb7d9",
+    "key": "Ok1090",
     "expirydate": "28-02-2026",
     "Allowoffline": true
   }
