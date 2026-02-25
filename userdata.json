@@ -246,12 +246,6 @@
     "Allowoffline": true
   },
   {
-    "device_id": "6d68b59dc4612b33",
-    "key": "Chot",
-    "expirydate": "27-02-2026",
-    "Allowoffline": true
-  },
-  {
     "device_id": "5b85a9b7c0c0ef6f",
     "key": "0002",
     "expirydate": "28-02-2026",
@@ -384,14 +378,8 @@
     "Allowoffline": true
   },
   {
-    "device_id": "e42a78adce41c7cf",
-    "key": "Seefat",
-    "expirydate": "28-02-2026",
-    "Allowoffline": true
-  },
-  {
     "device_id": "4319af66179f21f0",
-    "key": "017",
+    "key": "0170",
     "expirydate": "27-02-2026",
     "Allowoffline": true
   }
