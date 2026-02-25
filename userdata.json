@@ -394,5 +394,11 @@
     "key": "Kiddo",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e42a78adce41c7cf",
+    "key": "Hiccups",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
