@@ -382,5 +382,11 @@
     "key": "Oblak",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1b8cf30820965b3e",
+    "key": "Keep",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
