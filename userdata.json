@@ -418,5 +418,11 @@
     "key": "Cook",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "db41f5b7e6304385",
+    "key": "db41f5b7e6304385",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
