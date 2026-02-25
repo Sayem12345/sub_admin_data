@@ -382,5 +382,17 @@
     "key": "Antor05",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e42a78adce41c7cf",
+    "key": "Seefat",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "4319af66179f21f0",
+    "key": "017",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
   }
 ]
