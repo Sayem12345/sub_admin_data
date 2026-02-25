@@ -304,5 +304,11 @@
     "key": "Rashedul3",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ae6a2fff2b671276",
+    "key": "Mahfuz 09",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
