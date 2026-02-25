@@ -412,5 +412,11 @@
     "key": "Coffee",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "283eec0b6b1dea88",
+    "key": "Cook",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
