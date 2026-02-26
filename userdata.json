@@ -485,5 +485,12 @@
     "expirydate": "28-02-2026",
     "Allowoffline": true,
     "createdAt": "2026-02-26T11:15:25.329Z"
+  },
+  {
+    "device_id": "858171801e02126a",
+    "key": "858171801e02126a",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true,
+    "createdAt": "2026-02-26T11:19:59.346Z"
   }
 ]
